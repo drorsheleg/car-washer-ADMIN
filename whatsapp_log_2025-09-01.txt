@@ -1,0 +1,6 @@
+[2025-09-01 06:26:07] API Request | DATA: {"action":"send_booking_cancellation","method":"POST"}
+[2025-09-01 06:26:08] Sending WhatsApp via Green API | DATA: {"to":"972549952960@c.us","original":"0549952960","context":"booking_cancellation","message_length":264}
+[2025-09-01 06:26:08] Success | DATA: {"response":{"idMessage":"BAE5179302806AB7"},"http_code":200,"message_id":"BAE5179302806AB7"}
+[2025-09-01 07:26:15] API Request | DATA: {"action":"send_subscription_update","method":"POST"}
+[2025-09-01 07:26:16] Sending WhatsApp via Green API | DATA: {"to":"972549952960@c.us","original":"0549952960","context":"subscription_update","message_length":355}
+[2025-09-01 07:26:16] Success | DATA: {"response":{"idMessage":"BAE58672187A23DD"},"http_code":200,"message_id":"BAE58672187A23DD"}

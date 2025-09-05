@@ -1,0 +1,75 @@
+[2025-08-29 20:48:23] Action: get_records, Method: POST, Raw Input: 
+[2025-08-29 20:48:23] Action: get_records, Method: POST, Raw Input: 
+[2025-08-29 20:48:23] Action: get_records, Method: POST, Raw Input: 
+[2025-08-29 20:48:23] get_records: Fetched data for table Bookings, ID: 
+[2025-08-29 20:48:23] get_records: Fetched data for table ClientSubscriptions, ID: 
+[2025-08-29 20:48:24] get_records: Fetched data for table Clients, ID: 
+[2025-08-30 17:50:39] The formula for filtering records is invalid: Unknown function names: IS_SAME_OR_BEFORE,IS_SAME_OR_AFTER
+[2025-08-30 17:50:42] The formula for filtering records is invalid: Unknown function names: IS_SAME_OR_BEFORE,IS_SAME_OR_AFTER
+[2025-08-30 17:51:41] The formula for filtering records is invalid: Unknown function names: IS_SAME_OR_BEFORE,IS_SAME_OR_AFTER
+[2025-08-30 17:52:32] The formula for filtering records is invalid: Unknown function names: IS_SAME_OR_BEFORE,IS_SAME_OR_AFTER
+[2025-08-30 17:52:33] The formula for filtering records is invalid: Unknown function names: IS_SAME_OR_BEFORE,IS_SAME_OR_AFTER
+[2025-08-30 17:52:34] The formula for filtering records is invalid: Unknown function names: IS_SAME_OR_BEFORE,IS_SAME_OR_AFTER
+[2025-08-30 19:55:22] Authentication required
+[2025-08-30 21:17:31] The formula for filtering records is invalid: Unknown function names: IS_SAME_OR_BEFORE
+[2025-08-30 21:17:31] The formula for filtering records is invalid: Unknown function names: IS_SAME_OR_BEFORE
+[2025-08-30 21:17:32] The formula for filtering records is invalid: Unknown function names: IS_SAME_OR_BEFORE
+[2025-08-30 21:17:34] The formula for filtering records is invalid: Unknown function names: IS_SAME_OR_BEFORE
+[2025-08-30 21:30:02] The formula for filtering records is invalid: Unknown function names: IS_SAME_OR_BEFORE
+[2025-08-30 21:37:21] The formula for filtering records is invalid: Unknown function names: IS_SAME_OR_BEFORE
+[2025-08-30 21:37:22] The formula for filtering records is invalid: Unknown function names: IS_SAME_OR_BEFORE
+[2025-08-30 21:37:49] The formula for filtering records is invalid: Unknown function names: IS_SAME_OR_BEFORE
+[2025-08-30 21:46:13] The formula for filtering records is invalid: Unknown function names: IS_SAME_OR_BEFORE
+[2025-08-30 21:46:14] The formula for filtering records is invalid: Unknown function names: IS_SAME_OR_BEFORE
+[2025-08-30 21:46:16] The formula for filtering records is invalid: Unknown function names: IS_SAME_OR_BEFORE
+[2025-08-31 05:20:45] Unknown field name: "Created Time"
+[2025-08-31 05:20:45] Unknown field name: "Created Time"
+[2025-08-31 05:25:05] Page size argument should be between 0 and 100
+[2025-08-31 05:25:06] Page size argument should be between 0 and 100
+[2025-08-31 05:25:08] Page size argument should be between 0 and 100
+[2025-08-31 05:25:15] Unknown field name: "Created Time"
+[2025-08-31 05:25:15] Page size argument should be between 0 and 100
+[2025-08-31 05:27:25] Page size argument should be between 0 and 100
+[2025-08-31 05:27:27] Page size argument should be between 0 and 100
+[2025-08-31 05:27:29] Page size argument should be between 0 and 100
+[2025-08-31 05:27:34] Page size argument should be between 0 and 100
+[2025-08-31 05:27:34] Unknown field name: "Created Time"
+[2025-08-31 05:27:43] Page size argument should be between 0 and 100
+[2025-08-31 05:28:00] Unknown field name: "Created Time"
+[2025-08-31 05:28:00] Page size argument should be between 0 and 100
+[2025-08-31 05:28:15] Page size argument should be between 0 and 100
+[2025-08-31 05:28:16] Page size argument should be between 0 and 100
+[2025-08-31 05:28:17] Page size argument should be between 0 and 100
+[2025-08-31 05:29:25] Page size argument should be between 0 and 100
+[2025-08-31 05:29:28] Page size argument should be between 0 and 100
+[2025-08-31 05:29:31] Page size argument should be between 0 and 100
+[2025-08-31 05:29:34] Page size argument should be between 0 and 100
+[2025-08-31 05:29:38] Page size argument should be between 0 and 100
+[2025-08-31 05:30:35] Page size argument should be between 0 and 100
+[2025-08-31 05:30:38] Page size argument should be between 0 and 100
+[2025-08-31 05:30:44] Page size argument should be between 0 and 100
+[2025-08-31 05:31:00] Page size argument should be between 0 and 100
+[2025-08-31 05:31:07] Page size argument should be between 0 and 100
+[2025-08-31 05:31:15] Page size argument should be between 0 and 100
+[2025-08-31 05:31:17] Page size argument should be between 0 and 100
+[2025-08-31 11:29:06] Action: get_records, Method: POST, Raw Input: {"table":"StaffMembers"}
+[2025-08-31 11:29:08] Action: get_records, Method: POST, Raw Input: {"table":"StaffMembers"}
+[2025-08-31 11:29:13] Action: get_records, Method: POST, Raw Input: {"table":"StaffMembers"}
+[2025-08-31 11:29:19] Action: get_records, Method: POST, Raw Input: {"table":"StaffMembers"}
+[2025-08-31 12:11:08] Field "Total Washes" cannot accept the provided value
+[2025-08-31 13:02:52] Cannot parse date value "" for field End Date
+[2025-08-31 13:02:53] Cannot parse date value "" for field End Date
+[2025-08-31 19:53:37] Airtable API error: {"error":"NOT_FOUND"}
+[2025-08-31 22:32:53] Unknown field name: "Payment Amount"
+[2025-08-31 22:32:59] Unknown field name: "Payment Amount"
+[2025-08-31 22:33:40] Unknown field name: "Payment Notes"
+[2025-08-31 22:33:45] Unknown field name: "Payment Notes"
+[2025-08-31 22:33:51] Unknown field name: "Payment Notes"
+[2025-08-31 22:34:46] Unknown field name: "Status Change Reason"
+[2025-08-31 22:34:52] Unknown field name: "Status Change Reason"
+[2025-08-31 22:34:58] Unknown field name: "Status Change Reason"
+[2025-08-31 22:35:13] Unknown field name: "Status Change Date"
+[2025-08-31 22:35:14] Unknown field name: "Status Change Date"
+[2025-08-31 22:35:15] Unknown field name: "Status Change Date"
+[2025-08-31 22:35:17] Unknown field name: "Status Change Date"
+[2025-08-31 22:35:22] Unknown field name: "Status Change Date"
